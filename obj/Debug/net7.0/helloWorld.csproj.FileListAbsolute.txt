@@ -1,0 +1,15 @@
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/bin/Debug/net7.0/helloWorld
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/bin/Debug/net7.0/helloWorld.deps.json
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/bin/Debug/net7.0/helloWorld.runtimeconfig.json
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/bin/Debug/net7.0/helloWorld.dll
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/bin/Debug/net7.0/helloWorld.pdb
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/helloWorld.csproj.AssemblyReference.cache
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/helloWorld.AssemblyInfoInputs.cache
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/helloWorld.AssemblyInfo.cs
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/helloWorld.dll
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/refint/helloWorld.dll
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/helloWorld.pdb
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/helloWorld.genruntimeconfig.cache
+/Users/mattiasolsson/udemy/cSharpMasterClass/helloWorld/obj/Debug/net7.0/ref/helloWorld.dll
